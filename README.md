@@ -10,6 +10,27 @@ Analyze specified pages for SEO suitability.
 <a href="#installation">Installation</a> •
 <a href="#usage">Usage</a> 
 </p>
+
+<p align="center">
+
+  <!-- 🐍 Language / Stack -->
+  <img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?style=for-the-badge&logo=python&logoColor=fff" alt="Python 3.10+">
+  <img src="https://img.shields.io/badge/Flask-Web%20Framework-000000?style=for-the-badge&logo=flask&logoColor=fff" alt="Flask">
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Bootstrap-5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=fff" alt="Bootstrap 5"><br />
+  <img src="https://img.shields.io/badge/Gunicorn-Server-499848?style=for-the-badge&logo=gunicorn&logoColor=fff" alt="Gunicorn">
+
+  <!-- 🧰 Tools -->
+  <img src="https://img.shields.io/badge/Poetry-Dependency%20Manager-60A5FA?style=for-the-badge&logo=poetry&logoColor=fff" alt="Poetry">
+  <img src="https://img.shields.io/badge/pytest-Testing-0A9EDC?style=for-the-badge&logo=pytest&logoColor=fff" alt="pytest">
+  <img src="https://img.shields.io/badge/flake8-Linting-F05032?style=for-the-badge&logo=python&logoColor=fff" alt="Flake8">
+
+  <a href="https://python-project-lvl3-morl.onrender.com">
+    <img src="https://img.shields.io/badge/Deployed%20on-Render-46E3B7?style=for-the-badge&logo=render&logoColor=fff" alt="Deployed on Render">
+  </a>
+
+</p>
+
 </div>
 
 <details><summary style="font-size:larger;"><b>Table of Contents</b></summary>
